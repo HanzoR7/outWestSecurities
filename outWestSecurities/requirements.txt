@@ -1,0 +1,35 @@
+# Engine
+Django>=3.1.12
+Pillow>=8.2.0
+beautifulsoup4==4.9.3
+requests==2.25.1
+
+# API
+djangorestframework
+django-cors-headers
+django-filter
+djangorestframework-simplejwt
+drf-yasg==1.20.0
+
+# accounting
+django-registration
+
+# Documentation
+Sphinx==3.4.3
+sphinx-rtd-theme==0.5.1
+
+# .csv files
+pandas
+
+# DB
+psycopg2
+psycopg2-binary
+
+# Timezone
+pytz
+
+# pylint
+pylint-django==2.4.3
+
+# tests
+coverage==5.5
